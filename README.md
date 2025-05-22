@@ -10,6 +10,7 @@
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/a_caso_2.c)
 #### Captura:
 
+![image](https://github.com/user-attachments/assets/ccf33f47-dc34-4058-b4cd-a1ff25b5001c)
 
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/a_caso_3.c)
