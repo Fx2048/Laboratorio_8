@@ -22,6 +22,7 @@
 ### Caso 1.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/b_caso_1.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/9a0fd61e-6840-4683-a6cf-e05b4fa88a28)
 
 ### Caso 2.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/b_caso_2.c)
