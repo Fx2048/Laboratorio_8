@@ -71,6 +71,7 @@
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/d_caso_3.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/c5564ac2-ce96-4607-ae03-f2f50cb025ca)
 
 
 ## E. Planificación con prioridades (Desalojo)
@@ -82,6 +83,7 @@
 ### Caso 2.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/e_caso_2.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/ab25ba41-48c4-4940-b4b8-75f56847725c)
 
 
 ### Caso 3.
