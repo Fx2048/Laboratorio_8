@@ -1,12 +1,12 @@
- #include <stdio.h>
- #define MAX 10
- int main() {
-    int n = 4;
-    int arrival_time[] = {0, 1, 2, 3};
-    int burst_time[] = {5, 3, 1, 2};
-    int remaining_time[4];
-    int waiting_time[4] = {0}, turnaround_time[4];
-    int quantum = 2;
+ #include <stdio.h> //librerías
+ #define MAX 10 
+ int main() { // funciones principal
+    int n = 4; // procesos 
+    int arrival_time[] = {0, 1, 2, 3}; // tiempo de llegada
+    int burst_time[] = {5, 3, 1, 2}; // tiempo de rafaga
+    int remaining_time[4]; // tiempo restante por ejecutar procesos
+    int waiting_time[4] = {0}, turnaround_time[4]; // tiempo de espera inicializacion conteo
+    int quantum = 2; // definicion de quantum
     int time = 0, done = 0;
     int i;
     for ( i = 0; i < n; i++) {
