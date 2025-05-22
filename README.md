@@ -89,4 +89,5 @@
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/e_caso_3.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/f80b258c-eeda-43e9-b095-218a0c4695ca)
 
