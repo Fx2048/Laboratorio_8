@@ -15,6 +15,7 @@
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/a_caso_3.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/385c201f-468e-4973-9d3e-8f101d191df1)
 
 
 ## B. Round Robin (RR)
