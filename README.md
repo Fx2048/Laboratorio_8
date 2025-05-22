@@ -33,6 +33,7 @@
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/b_caso_3.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/64bf6901-5dca-49b7-aed8-7a6078da4a15)
 
 
 ## C. Shortest Job First (SJF)
