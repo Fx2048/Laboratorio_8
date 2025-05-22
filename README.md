@@ -51,6 +51,7 @@
 ### Caso 3.
 #### [Código](https://github.com/Fx2048/Laboratorio_8/blob/main/DOCUMENTACION/c_caso_3.c)
 #### Captura:
+![image](https://github.com/user-attachments/assets/c180bc1d-758e-46fe-ada9-0ac4359688fd)
 
 
 
