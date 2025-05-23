@@ -4,13 +4,13 @@
 
 typedef struct {
     int id;
-    int arrival;
-    int burst;
-    int priority;
-    int remaining;
-    int waiting;
-    int turnaround;
-    int completed;
+    int arrival; // llegada
+    int burst; // rafaga
+    int priority; //prioridad
+    int remaining; // tiempo restante de ejecucion
+    int waiting;//espera
+    int turnaround;//retorno
+    int completed; //completado
 } Proceso;
 
 int main() {
